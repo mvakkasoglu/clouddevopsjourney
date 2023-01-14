@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>My Personal Website</title>
+  <title> Exploring the Cloud: A DevOps Engineer's Journey </title>
 </head>
 <body>
   <header>
