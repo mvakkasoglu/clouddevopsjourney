@@ -52,13 +52,13 @@
       <h1>Contact</h1>
       <p>You can contact me via:</p>
       <ul>
-        <li>Email: yourname@example.com</li>
+        <li>Email: mervevks@gmail.com/li>
         <li>LinkedIn: https://www.linkedin.com/in/mvakkasoglu/</li>
       </ul>
     </section>
   </main>
   <footer>
-    <p>Copyright © 2021 My Personal Website</p>
+    <p>Copyright © 2021 Exploring the Cloud: A DevOps Engineer's Journey</p>
   </footer>
 </body>
 </html>
