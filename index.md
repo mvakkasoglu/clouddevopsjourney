@@ -52,7 +52,7 @@
       <h1>Contact</h1>
       <p>You can contact me via:</p>
       <ul>
-        <li>Email: mervevks@gmail.com/li>
+        <li>Email: mervevks@gmail.com</li>
         <li>LinkedIn: https://www.linkedin.com/in/mvakkasoglu/</li>
       </ul>
     </section>
